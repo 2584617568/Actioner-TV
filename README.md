@@ -1,2 +1,2 @@
 # Actioner-TV
-想看什么就看什么
+See what you want to see  ，    想看什么就看什么  
