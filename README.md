@@ -1,5 +1,5 @@
 # Actioner-TV
-See what you want to see  ，    想看什么就看什么 
+想看什么就看什么,不受防火墙的限制直接访问Google,Youtube,Facebook等全球网站(VPN 翻墙利器)
 ### Android版本下载地址
 [https://github.com/2584617568/Actioner-TV/releases/download/1/ActionerTV.apk](https://github.com/2584617568/Actioner-TV/releases/download/1/ActionerTV.apk)
 
