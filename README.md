@@ -11,5 +11,7 @@ QQ群：941578081
 ![截图](https://github.com/2584617568/Actioner-TV/blob/master/302401699487063037.jpg)
 ![截图](https://github.com/2584617568/Actioner-TV/blob/master/1540967879000.jpg)
 ![截图](https://github.com/2584617568/Actioner-TV/blob/master/154096787966666666666666.jpg)
+![截图](https://github.com/2584617568/Actioner-TV/blob/master/E50788905563F33C3FE4133D97699984.jpg)
+
 
 
